@@ -1,0 +1,15 @@
+/etc/apache2/httpd.conf
+/etc/apache2/vhostsCommon
+/etc/apache2/conf-enabled/phpmyadmin.conf
+/etc/apache2/mods-enabled/php5.conf
+/etc/apache2/mods-enabled/userdir.conf
+/etc/apache2/sites-enabled/vhosts.conf
+/etc/cron.hourly/ntpdate
+/etc/mail/sendmail.mc
+/etc/mysql/my.cnf
+/etc/mysql-zrm/mysqlBak
+/etc/nail.rc
+/etc/samba/smb.conf
+/etc/shorewall
+/etc/default/shorewall
+/var/spool/cron
