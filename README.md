@@ -9,7 +9,7 @@ At the server of which files are to be backed-up:
 ```
 mkdir ~/bak
 cd ~/bak
-vi roughEtcBak.txt # Sample: https://raw.githubusercontent.com/casinero/roughEtcBak.php/master/roughEtcBak.txt
+vi roughEtcBak.txt # See roughEtcBak.txt for sample
 #... and also put roughEtcBak.php in this directory ...
 sudo php roughEtcBak.php
 # See appendix for enabling passwordless SSH/rsync.
